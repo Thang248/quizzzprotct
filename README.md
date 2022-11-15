@@ -4,3 +4,5 @@
 -	Nền tảng: Ứng dụng di động trên hệ điều hành Android
 -	Đối tượng: Học sinh, Sinh viên.
 -	Chức năng: Chọn đề; Làm bài; Xem điểm.
+
+NguyenNgocChien
